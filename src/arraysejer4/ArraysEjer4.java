@@ -31,6 +31,8 @@ public class ArraysEjer4 {
         System.out.println("ver saldo " + saldoActual);
         
        cuenta.listarMovimientos();
+       
+        System.out.println("LUIIIISSS AAAAAA");
         
     }
 
